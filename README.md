@@ -1,5 +1,43 @@
+- 常用数据结构
+    - 数组/字符串（Array/String） 
+    - 链表（Linked-list） 
+    - 栈（Stack） 
+    - 队列（Queue） 
+    - 双端队列（Deque） 
+    - 树（Tree） 
+    - 哈希表
+- 高级数据结构
+    - 优先队列（Priority Queue）
+    - 图（Graph）
+    - 前缀树（Trie）
+    - 线段树（Segment Tree）
+    - 树状数组（Fenwick Tree/Binary Indexed Tree）
+- 排序算法
+    - 基本的排序算法
+        - 冒泡排序
+        - 插入排序
+        - 选择排序
+    - 常考的排序算法
+        - 快速排序 
+        - 归并排序 
+        - 拓扑排序
+    - 其他排序算法
+        - 堆排序
+        - 桶排序
+- 递归和回溯
+    - 递归算法
+    - 回溯算法
+- BFS/DFS
+    - DFS
+    - BFS
+- 动态规划
+    - 线性规划
+    - 区间规划 
+    - 约束规划
+- 二分搜索算法
+- 贪婪算法
 
-[TOC]
+
 # 常用数据结构
 
 ## 数组/字符串（Array/String）
